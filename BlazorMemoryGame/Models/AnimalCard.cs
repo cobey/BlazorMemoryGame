@@ -32,7 +32,7 @@ namespace BlazorMemoryGame.Models
                 "🐱" => new CatCard(),
                 "🦁" => new LionCard(),
                 "🐯" => new TigerCard(),
-                "🐹" => new MouseCard(),
+                "🐭" => new MouseCard(),
                 _ => throw new ArgumentException(nameof(animal)),
             };
         }
