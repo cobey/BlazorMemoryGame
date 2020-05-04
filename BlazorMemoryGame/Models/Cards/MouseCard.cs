@@ -2,6 +2,6 @@
 {
     public class MouseCard : AnimalCard
     {
-        public override string Animal => " 🐭";
+        public override string Animal => "🐭";
     }
 }
